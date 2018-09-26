@@ -1,0 +1,1115 @@
+1535463049125	geckodriver	INFO	geckodriver 0.21.0
+1535463049146	geckodriver	INFO	Listening on 127.0.0.1:63739
+1535463049616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.u2hrjTAXbmiq"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535463058611	Marionette	INFO	Listening on port 63744
+1535463059468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535463095928	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Parent 7408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7408, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/c[Parent 7408, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[GPU 18360, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535463201530	geckodriver	INFO	geckodriver 0.21.0
+1535463201554	geckodriver	INFO	Listening on 127.0.0.1:64043
+1535463201937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.b35eOg8vD3c2"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535463206719	Marionette	INFO	Listening on port 64048
+1535463207173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535463243699	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+[Parent 1456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15700, Chrome_ChildThread] WARNING: pipe er[Parent 1456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 13036, Chrome_ChildThrea
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535463521077	geckodriver	INFO	geckodriver 0.21.0
+1535463521100	geckodriver	INFO	Listening on 127.0.0.1:64523
+1535463521538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.b3jgnqtWZjPv"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535463526820	Marionette	INFO	Listening on port 64528
+1535463527310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535463566254	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Parent 17968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bui[Parent 17968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535463696568	geckodriver	INFO	geckodriver 0.21.0
+1535463696591	geckodriver	INFO	Listening on 127.0.0.1:65427
+1535463697123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.RQilYcSPl0wm"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535463702057	Marionette	INFO	Listening on port 65432
+1535463702582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535463738868	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Parent 4392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535463830725	geckodriver	INFO	geckodriver 0.21.0
+1535463830750	geckodriver	INFO	Listening on 127.0.0.1:49188
+1535463831212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.c4orjlFN0mRi"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535463834612	Marionette	INFO	Listening on port 49193
+1535463835557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535463872190	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Parent 11184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/ch[GPU 3016, Chrome_ChildThread] WAR
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535463932874	geckodriver	INFO	geckodriver 0.21.0
+1535463932899	geckodriver	INFO	Listening on 127.0.0.1:49308
+1535463933362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.GDzdE4Cz9Usb"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535463937626	Marionette	INFO	Listening on port 49313
+1535463937795	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535463974025	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+[Child 14796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line [Parent 14376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/ch[GPU 8140, Chrome_ChildThrea
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535464017660	geckodriver	INFO	geckodriver 0.21.0
+1535464017685	geckodriver	INFO	Listening on 127.0.0.1:49469
+1535464018170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.HN5LyqITxX4i"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535464021629	Marionette	INFO	Listening on port 49474
+1535464022153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+[Parent 12760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/buil[Parent 12760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 2672, Chrome_ChildThread]
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535464079485	geckodriver	INFO	geckodriver 0.21.0
+1535464079510	geckodriver	INFO	Listening on 127.0.0.1:49748
+1535464079971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.zaahXdHD9LNV"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535464084301	Marionette	INFO	Listening on port 49753
+1535464084321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535464121345	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+console.error: "Got an addition of an actor we didn't know about: server1.conn0.child1/domnode106"
+[Parent 15232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15864, Chrome_Chil[Parent 15232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src[GPU 14944, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535464218568	geckodriver	INFO	geckodriver 0.21.0
+1535464218593	geckodriver	INFO	Listening on 127.0.0.1:50307
+1535464218975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.WgD36aYt4MUI"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535464224085	Marionette	INFO	Listening on port 50405
+1535464224424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535464260796	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Parent 3188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/c[Parent 3188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 17908, Chrome_ChildThread] WARNING: pip
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535464282169	geckodriver	INFO	geckodriver 0.21.0
+1535464282194	geckodriver	INFO	Listening on 127.0.0.1:50628
+1535464282655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.9jlWAxQvEcyR"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535464286229	Marionette	INFO	Listening on port 50635
+1535464286659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535464322651	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+[Parent 8348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8348, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[GPU 8764, Chrome_ChildThread] 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535464390173	geckodriver	INFO	geckodriver 0.21.0
+1535464390196	geckodriver	INFO	Listening on 127.0.0.1:51053
+1535464390670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.xnkJ9tfYwomw"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535464394160	Marionette	INFO	Listening on port 51070
+1535464394786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535464445075	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 16568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom[Parent 16568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1796, Chrome_Chi[GPU 17428, Chrome_ChildThread] WARNING: pipe error: 109: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535464492297	geckodriver	INFO	geckodriver 0.21.0
+1535464492317	geckodriver	INFO	Listening on 127.0.0.1:51691
+1535464492788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.dbMAXyCVaLaH"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535464496604	Marionette	INFO	Listening on port 51701
+1535464496713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+[Parent 17028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/sr[Child 15296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 18220, Chrome_ChildThrea
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535464540617	geckodriver	INFO	geckodriver 0.21.0
+1535464540639	geckodriver	INFO	Listening on 127.0.0.1:51894
+1535464541112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.cRfd5N4jwU3o"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535464545284	Marionette	INFO	Listening on port 51899
+1535464545450	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+[Parent 14988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16976, Chrome_ChildThread] WAR
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535464617259	geckodriver	INFO	geckodriver 0.21.0
+1535464617282	geckodriver	INFO	Listening on 127.0.0.1:52135
+1535464617753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.eBcejcidinne"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535464621410	Marionette	INFO	Listening on port 52142
+1535464621871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535464663842	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[[CChild 456hild8,  Chrome_ChildThread] WARNIN146G: pipe error: 109: file z:/build/build/src/ip96,c/chro Chromium/srme_c/chrome/Chicommon/ldTipc_channhreadel_wi] Wn.cc, line ARNIN346
+G: pipe error: 109: file z:/buil[d/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14696, Chrome[Parent 8852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5660, Chrome_ChildThread] WARNING:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pData\Local\openvr\openvrpaths.vrpath
+1535465230123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 65: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 65: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://10.100.33.138:8000
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://10.100.33.138:8000
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://10.100.33.138:8000
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: http://10.100.33.138:8000
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+[Parent 17608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14536,[Child 16476, Chrome_Chi Chrome_ChildTldThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16476, Chrome[Parent 17608, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16828, Chrome_C1535465409094	geckodriver	INFO	geckodriver 0.21.0
+1535465409116	geckodriver	INFO	Listening on 127.0.0.1:60812
+1535465409612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.bHthmdGNoxVm"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535465413149	Marionette	INFO	Listening on port 60819
+1535465413675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535465449522	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 16604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 4004, Chrome_ChildThread
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535465446599	Marionette	INFO	Listening on port 60981
+1535465446779	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15548, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535465702257	geckodriver	INFO	geckodriver 0.21.0
+1535465702280	geckodriver	INFO	Listening on 127.0.0.1:62627
+1535465702755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.qjPpmG6f4YLB"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535465706212	Marionette	INFO	Listening on port 62632
+1535465706707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535465742515	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 17956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 17852, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ers\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535465745766	Marionette	INFO	Listening on port 62792
+1535465746230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535465833494	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 13232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17944, Chrome[C_hild 16752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16752, Chrome_ChildThread] WARNING: pipe [Parent 13232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3740,[GPU 11060, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535466191395	geckodriver	INFO	geckodriver 0.21.0
+1535466191421	geckodriver	INFO	Listening on 127.0.0.1:63560
+1535466191893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.cvvATzFwXqgS"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535466195662	Marionette	INFO	Listening on port 63569
+1535466195916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535466233965	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Child 8140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8140, Chrome_ChildThread] WAR[Child 11272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11272, Chr[Parent 8640, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15496, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ll be ignored for this session
+1535466331831	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 14588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14840, Chrome_ChildThread][GPU 10556, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535467068314	geckodriver	INFO	geckodriver 0.21.0
+1535467068338	geckodriver	INFO	Listening on 127.0.0.1:51053
+1535467068818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.UuDwibDXpFLY"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535467073120	Marionette	INFO	Listening on port 51070
+1535467073167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535467109366	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 14548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17044, Chrome_ChildThre[Child 12352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/[Parent 14548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6748, Chrome_ChildThrea
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chro1535467140397	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Child 17964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17964, Chrome_Ch1535467140432	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1535467140437	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 12792, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15092, Chrome_ChildThread] WARNIN*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15624, Chrome_ChildThread] W
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535467275195	geckodriver	INFO	geckodriver 0.21.0
+1535467275219	geckodriver	INFO	Listening on 127.0.0.1:52227
+1535467275681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.N53leVVBruKc"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535467279698	Marionette	INFO	Listening on port 52233
+1535467280529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535467315662	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+[Parent 17696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14096, Chrome_ChildThread] WAJavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+[Parent 17696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo[Parent 17696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535475320191	geckodriver	INFO	geckodriver 0.21.0
+1535475320218	geckodriver	INFO	Listening on 127.0.0.1:52308
+1535475320712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.TEjQVvp2kLtq"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535475325951	Marionette	INFO	Listening on port 52313
+1535475326564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535475363120	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+[Parent 17580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17868, Chrome_ChildThread] WARNING: pipe erro[Parent 17580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15892, Chrome_ChildThread] WARNING: p[GPU 17952, Chrome_ChildThread] WARNING: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535475392269	geckodriver	INFO	geckodriver 0.21.0
+1535475392293	geckodriver	INFO	Listening on 127.0.0.1:52522
+1535475392773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.DMMOJXgI6LlS"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535475396649	Marionette	INFO	Listening on port 52527
+1535475397140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535475432869	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+[Parent 10284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14264, Chrome_ChildThread] WARNING: pip[Child 11408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/sr[GPU 8648, Chrome_ChildThread] WARNING: pipe error
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535479019089	geckodriver	INFO	geckodriver 0.21.0
+1535479019114	geckodriver	INFO	Listening on 127.0.0.1:53403
+1535479019546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.43wbSBlgWm7q"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535479023894	Marionette	INFO	Listening on port 53410
+1535479023949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535479407915	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 16704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16520, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535480025297	geckodriver	INFO	geckodriver 0.21.0
+1535480025322	geckodriver	INFO	Listening on 127.0.0.1:55327
+1535480025798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.4krbySNSGlCB"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535480029499	Marionette	INFO	Listening on port 55332
+1535480029913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535480067844	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+[Parent 16008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15624, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535484639860	geckodriver	INFO	geckodriver 0.21.0
+1535484639883	geckodriver	INFO	Listening on 127.0.0.1:58528
+1535484640362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.cnVa2ShqJ4mm"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535484645255	Marionette	INFO	Listening on port 58535
+1535484645353	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535484681482	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 6848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16328, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535484801305	geckodriver	INFO	geckodriver 0.21.0
+1535484801329	geckodriver	INFO	Listening on 127.0.0.1:62363
+1535484801806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.Uq4bTbuQXQk1"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535484805747	Marionette	INFO	Listening on port 62367
+1535484806299	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535484842212	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+[Parent 16944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16944, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2076, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535484936992	geckodriver	INFO	geckodriver 0.21.0
+1535484937014	geckodriver	INFO	Listening on 127.0.0.1:62702
+1535484937498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.BewKufRAeF0t"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535484942150	Marionette	INFO	Listening on port 62707
+1535484942569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535484978053	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 16224, Chrome_ChildThre
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+penvr\openvrpaths.vrpath
+1535484989198	Marionette	INFO	Listening on port 62886
+1535484989739	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/ch[Parent 16072, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[GPU 18244, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535485155203	geckodriver	INFO	geckodriver 0.21.0
+1535485155228	geckodriver	INFO	Listening on 127.0.0.1:62380
+1535485155612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.rysSNo0O7DkK"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535485160645	Marionette	INFO	Listening on port 62387
+1535485161369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535485196177	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 16084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/s[Parent 16084, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+um/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8464, Chr[Parent 3712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 888, Chrome_Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15836, Chrome_ChildThread] WA
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535485237097	geckodriver	INFO	geckodriver 0.21.0
+1535485237122	geckodriver	INFO	Listening on 127.0.0.1:62851
+1535485237598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.T3LxeK3I34Jz"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535485241347	Marionette	INFO	Listening on port 62858
+1535485241625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535485277619	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 15376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14500, Chr[Parent 15376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15376, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[GPU 2016, Chrome_ChildThread] WARNING: pipe 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+n.cc, line 346
+[Parent 10736, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10736, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 18100, Chrome_ChildThread]
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535485346517	geckodriver	INFO	geckodriver 0.21.0
+1535485346540	geckodriver	INFO	Listening on 127.0.0.1:63158
+1535485347015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.7kfG71DJ7Ymd"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1535485351053	Marionette	INFO	Listening on port 63165
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 65: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 65: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535485351469	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+thread '<unnamed>' panicked at 'called `Result::unwrap()` on an `Err` value: Os { code: 10054, kind: ConnectionReset, message: "Foi forçado o cancelamento de uma conexão existente pelo host remoto." }', libcore\result.rs:945:5
+note: Run with `RUST_BACKTRACE=1` for a backtrace.
+[Parent 16452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535485494634	geckodriver	INFO	geckodriver 0.21.0
+1535485494657	geckodriver	INFO	Listening on 127.0.0.1:63911
+1535485495134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.gjoyeWeSAorS"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535485499813	Marionette	INFO	Listening on port 63918
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 65: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 65: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+1535485500098	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8272, Chrome_ChildThread[Child 6312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6312, Chrome_Chil[Parent 17452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14364,*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535485559652	geckodriver	INFO	geckodriver 0.21.0
+1535485559674	geckodriver	INFO	Listening on 127.0.0.1:64501
+1535485560171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.zXNAngS75Aki"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535485563792	Marionette	INFO	Listening on port 64508
+1535485564548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535485600158	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 15908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/[bPareuild/src/ipc/chromium/src/nt 15908, Geckchrome/common/ipc_o_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commcohannen/ipc_cl_wihannel_win.cc, line 346
+n.cc, line 346
+[Child 4076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8520, Chrome_Ch[Parent 15908, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15084, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535485606891	geckodriver	INFO	geckodriver 0.21.0
+1535485606913	geckodriver	INFO	Listening on 127.0.0.1:64673
+1535485607409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.7bfDaaN97EA5"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535485611672	Marionette	INFO	Listening on port 64680
+1535485611957	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535485647562	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Child 13824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13824, Chrome_ChildThread] WARNING: pipe[Parent 17908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11428, Chrome_
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535485722323	geckodriver	INFO	geckodriver 0.21.0
+1535485722346	geckodriver	INFO	Listening on 127.0.0.1:64957
+1535485722827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.EaIyBB0xBvGw"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535485726113	Marionette	INFO	Listening on port 64964
+1535485726223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535485762664	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 17592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_wi[Parent 17592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chro[Parent 17592, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1535485813567	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1535485813609	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1535485813613	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 14992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 18056, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535486143758	geckodriver	INFO	geckodriver 0.21.0
+1535486143783	geckodriver	INFO	Listening on 127.0.0.1:49386
+1535486144212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.6ZhRIBZI5lNd"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535486151663	Marionette	INFO	Listening on port 49391
+1535486152082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535486186375	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Child 3204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3696, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[GPU 18168, Chrome_ChildThread] WAR
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+d VR Path Regible to read VR Path Registry from C:\Ustrsy fromers \hiCago.rodrigues\AppData\Local:\Us\openvr\opers\hiago.rodrigues\AppData\Local\oenvrpaths.vrpathp
+envr\openvrpaths.vrpath
+[Child 15900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15900, Chrome1535486199549	Marionette	INFO	Listening on port 49570
+1535486199987	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535486232864	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 3444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chr[GPU 17128, Chrome_ChildThread]
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535486383600	geckodriver	INFO	geckodriver 0.21.0
+1535486383624	geckodriver	INFO	Listening on 127.0.0.1:50273
+1535486384104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.jFJU0h4pBT4o"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535486388443	Marionette	INFO	Listening on port 50278
+1535486388461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535486424666	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+[Child 14592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14592, Chro[Parent 14096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9172, Chrome_ChildThread] WAR
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535486455685	geckodriver	INFO	geckodriver 0.21.0
+1535486455710	geckodriver	INFO	Listening on 127.0.0.1:50482
+1535486456186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.B1CYMFo377Hu"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535486460472	Marionette	INFO	Listening on port 50487
+1535486460551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535486497310	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Parent 10932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9376, Chrome_ChildThread] W[GPU 4056, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535486500584	Marionette	INFO	Listening on port 50629
+1535486500998	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535486667427	geckodriver	INFO	geckodriver 0.21.0
+1535486667452	geckodriver	INFO	Listening on 127.0.0.1:51013
+1535486667839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HIAGO~1.ROD\\AppData\\Local\\Temp\\rust_mozprofile.01vy9rfDNogs"
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\hiago.rodrigues\AppData\Local\openvr\openvrpaths.vrpath
+1535486672628	Marionette	INFO	Listening on port 51018
+1535486672940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-122668847-1, line 69: unreachable code after return statement
+1535486708483	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Parent 15024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chann[Parent 15024, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16404, Chrome_ChildThread] [GPU 18652, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ this session
+[Parent 14800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/[Child 17096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18108, Chrome_ChildThre[Parent 14800, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[GPU 14892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
