@@ -13,6 +13,15 @@ driver2.maximize_window()
 pagina_suporte = "http://10.100.37.242:8000/signup/"
 driver2.get(pagina_suporte)
 
+import datetime
+i = 0
+while i == 0:
+    datetime.datetime.now()
+    if hora == 8:
+        código
+    else:
+        pass
+
 
 driver = webdriver.Chrome(executable_path=r"chromedriver.exe")
 #driver = webdriver.Firefox()
